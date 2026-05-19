@@ -52,7 +52,7 @@ I love working on the technical side of things: rendering pipelines, custom engi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregoire-PORTEVIN&hide_border=true&background=0A0A0A&stroke=262626&ring=FF5C39&fire=FF5C39&currStreakLabel=FF5C39&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A3A3A3" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregoire-PORTEVIN&theme=transparent&hide_border=true&background=0A0A0A&stroke=262626&ring=FF5C39&fire=FF5C39&currStreakLabel=FF5C39&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A3A3A3" alt="GitHub Streak" height="170" />
 </p>
 
 <br />
