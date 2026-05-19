@@ -47,12 +47,12 @@ I love working on the technical side of things: rendering pipelines, custom engi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gregoire-PORTEVIN&show_icons=true&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&icon_color=FF5C39&text_color=FAFAFA&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregoire-PORTEVIN&layout=compact&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&text_color=FAFAFA&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gregoire-PORTEVIN&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&icon_color=FF5C39&text_color=FAFAFA&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gregoire-PORTEVIN&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&text_color=FAFAFA&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregoire-PORTEVIN&theme=transparent&hide_border=true&background=0A0A0A&stroke=262626&ring=FF5C39&fire=FF5C39&currStreakLabel=FF5C39&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A3A3A3" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregoire-PORTEVIN&hide_border=true&background=0A0A0A&stroke=262626&ring=FF5C39&fire=FF5C39&currStreakLabel=FF5C39&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A3A3A3" alt="GitHub Streak" height="170" />
 </p>
 
 <br />
