@@ -18,12 +18,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Gregoire-PORTEVIN
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bbbbbb,#ffd9c4,#ffa07a,#ff5c39,#cc4123
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
           build_dir: dist
