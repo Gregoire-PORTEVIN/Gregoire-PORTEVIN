@@ -59,11 +59,9 @@ I love working on the technical side of things: rendering pipelines, custom engi
 
 ## 🐍 Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake.svg" alt="Contribution snake" />
+</p>
 
 <br />
 <br />
