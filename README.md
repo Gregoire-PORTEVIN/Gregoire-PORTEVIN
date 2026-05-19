@@ -1,5 +1,5 @@
 <!-- =============================================== -->
-<!-- README de profil GitHub                          -->
+<!-- README de profil GitHub — version stylée         -->
 <!-- =============================================== -->
 
 <h1>
@@ -40,6 +40,38 @@ I love working on the technical side of things: rendering pipelines, custom engi
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gregoire-PORTEVIN&show_icons=true&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&icon_color=FF5C39&text_color=FAFAFA&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregoire-PORTEVIN&layout=compact&theme=transparent&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&text_color=FAFAFA&langs_count=8" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregoire-PORTEVIN&theme=transparent&hide_border=true&background=0A0A0A&stroke=262626&ring=FF5C39&fire=FF5C39&currStreakLabel=FF5C39&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=A3A3A3" alt="GitHub Streak" height="170" />
+</p>
+
+<br />
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake.svg" />
+</picture>
+
+<br />
+<br />
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gregoire-PORTEVIN&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
 <br />
