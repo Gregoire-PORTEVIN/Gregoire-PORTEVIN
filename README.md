@@ -16,11 +16,11 @@ I'm currently in my **Master's in Game Development, real-time 3D rendering & imm
 
 I love working on the technical side of things: rendering pipelines, custom engines, gameplay programming, and bridging code with interactive experiences. C++ is my comfort zone, but I'm just as happy in C#, Python, or modern web stacks.
 
-🔍 **Currently looking for** a 1-year work-study apprenticeship starting September 2026 — preferably in VR, simulation, or game development.
+**Currently looking for** a 1-year work-study apprenticeship starting September 2026 — preferably in VR, simulation, or game development.
 
 <br />
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 <p>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -44,7 +44,7 @@ I love working on the technical side of things: rendering pipelines, custom engi
 
 <br />
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gregoire-PORTEVIN&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF5C39&icon_color=FF5C39&text_color=FAFAFA&include_all_commits=true" alt="GitHub Stats" height="170" />
@@ -57,7 +57,7 @@ I love working on the technical side of things: rendering pipelines, custom engi
 
 <br />
 
-## 🐍 Contribution snake
+## Contribution snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gregoire-PORTEVIN/Gregoire-PORTEVIN/output/github-snake.svg" alt="Contribution snake" />
@@ -66,7 +66,7 @@ I love working on the technical side of things: rendering pipelines, custom engi
 <br />
 <br />
 
-## 🏆 Trophies
+## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gregoire-PORTEVIN&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
@@ -74,7 +74,7 @@ I love working on the technical side of things: rendering pipelines, custom engi
 
 <br />
 
-## 🎯 Featured projects
+## Featured projects
 
 Take a look at my pinned repositories below — or check out the live versions on my portfolio:
 
@@ -86,11 +86,11 @@ Take a look at my pinned repositories below — or check out the live versions o
 
 <br />
 
-## 🔗 Find me elsewhere
+## Find me elsewhere
 
-- 🌐 **Portfolio** — [gportevin-portfolio.vercel.app](https://gportevin-portfolio.vercel.app)
-- 💼 **LinkedIn** — [Grégoire Portevin](https://www.linkedin.com/in/grégoire-portevin-166063253/)
-- 📧 **Email** — gregoireportevin@gmail.com
+- **Portfolio** — [gportevin-portfolio.vercel.app](https://gportevin-portfolio.vercel.app)
+- **LinkedIn** — [Grégoire Portevin](https://www.linkedin.com/in/grégoire-portevin-166063253/)
+- **Email** — gregoireportevin@gmail.com
 
 <br />
 
@@ -98,6 +98,6 @@ Take a look at my pinned repositories below — or check out the live versions o
 
 <div align="center">
 
-  <sub>📍 Based in Lyon · ✉️ Open to apprenticeship opportunities — Sept. 2026</sub>
+  <sub>Based in Lyon · Open to apprenticeship opportunities — Sept. 2026</sub>
 
 </div>
